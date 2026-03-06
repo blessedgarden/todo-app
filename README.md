@@ -71,18 +71,7 @@ npm test
 npm run build
 ```
 
-## 🧪 Тестирование
 
-```bash
-# Запуск всех тестов
-npm test
-
-# Однократный запуск
-npm run test:run
-
-# С покрытием
-npm run test:coverage
-```
 
 ### Покрытие тестами:
 
