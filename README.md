@@ -64,8 +64,7 @@ npm install
 # Запустить dev-сервер
 npm run dev
 
-# Запустить тесты
-npm test
+
 
 # Собрать для продакшена
 npm run build
