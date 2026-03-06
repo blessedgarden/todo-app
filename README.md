@@ -55,7 +55,7 @@ src/
 
 ```bash
 # Клонировать
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/blessedgarden/todo-app.git
 cd todo-app
 
 # Установить зависимости
