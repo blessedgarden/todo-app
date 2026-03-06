@@ -21,7 +21,6 @@
 - **React 19** + **TypeScript** — типобезопасный UI
 - **Vite** — молниеносная сборка
 - **Tailwind CSS 4** — утилитарные стили
-- **Vitest** + **React Testing Library** — 40+ тестов
 - **HTML5 Drag & Drop API** — нативное перетаскивание без библиотек
 
 ## 🏗 Архитектура
